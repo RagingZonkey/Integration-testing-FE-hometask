@@ -1,0 +1,12 @@
+{
+  "name": "Integration-testing-FE-hometask",
+  "version": "1.0.0",
+  "description": "Yegor's hometask (all rights reserved ^_^)",
+  "main": "index.js",
+  "repository": "git@github.com:RagingZonkey/Integration-testing-FE-hometask.git",
+  "author": "RagingZonkey <yegorkauser228@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}

@@ -10,8 +10,8 @@ test('calculates the area of a rectangle with the sides of 4 and 5', () => {
     expect(calculationResult).toBe(20);
 });
 
-test('calculates the area and the perimeter of a rectangle with the sides' + 
-' of 4 and 5 and outputs them', () => {
+test('calculates the area and the perimeter of a rectangle with the sides ' + 
+'of 4 and 5 and outputs them', () => {
     // Create a mock function to track console.log() calls
     const consoleSpy = jest.spyOn(console, 'log');
     getRectangleInfo(4, 5);
